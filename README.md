@@ -1,5 +1,7 @@
 ### Linux Tracing Workshops Materials
 
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/linux-tracing-workshop.svg)](https://www.guardrails.io)
+
 This repository contains examples and hands-on labs for various Linux tracing workshops, focusing on modern tracing tools.  To perform these labs, you will need a Linux box that meets several prerequisites. You can also use an EC2 instance supplied by the instructor.
 
 - - -
